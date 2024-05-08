@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "essays": "deno run --allow-net=paulgraham.com --allow-write=essays.json scrapper/essays.ts",
+    "book": "deno run --allow-write scrapper/book.ts"
+  }
+}
