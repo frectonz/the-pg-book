@@ -1,9 +1,6 @@
 #set page(
   paper: "a5",
   margin: (x: 1.8cm, y: 1.5cm),
-  header: align(right)[
-    prop62.html
-  ]
 )
 #set text(
   font: "Liberation Serif",
